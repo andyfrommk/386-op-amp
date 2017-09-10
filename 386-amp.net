@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/andy/386-amp/386-amp.sch)
-    (date "Sun 10 Sep 2017 15:00:18 BST")
+    (date "Sun 10 Sep 2017 20:07:29 BST")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -35,7 +35,7 @@
       (tstamp 59B455FC))
     (comp (ref C4)
       (value 0u1)
-      (footprint Capacitors_ThroughHole:C_Radial_D5_L6_P2.5)
+      (footprint Capacitors_ThroughHole:C_Disc_D3_P2.5)
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
       (tstamp 59B456CC))
